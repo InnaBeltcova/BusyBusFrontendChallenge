@@ -13,18 +13,18 @@ h3 {
   font-weight: 600;
 }
 h2 {
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-weight: bolder;
 }
 
 h1 {
   font-size: 2em;
-  font-weight: bold;
+  font-weight: bolder;
   background-color: #02768F;
-  line-height: 28px;
+  line-height: 33px;
   text-align: center;
   color: white;
-  border-radius: 10px;
+  border-radius: 12px;
 }
  p {
   color: #656565;
@@ -73,8 +73,8 @@ h1 {
    width: 375px;
    background-color: #F8F8F8;
    height: 64px;
-
 }
+
   footer {
     width: 375px;
     position: fixed;
@@ -88,19 +88,19 @@ h1 {
    display: inline-block;
    width: 24%;
    text-align: center;
-  }
+}
 
  .arrivals {
   display: inline-block;
   width: 24%;
   text-align: center;
-  }
+}
 
  .maps {
   display: inline-block;
   width: 24%;
   text-align: center;
-  }
+}
 
 .refresh {
   display: inline-block;
@@ -126,24 +126,24 @@ h1 {
 
   .stop {
     display: inline-block;
-    width: 42%
+    width: 40%
 }
 
   .frequency {
     display: inline-block;
     width: 16%;
     font-size: 1em;
-    padding-left: 6px;
+    padding-left: 7px;
 }
 
   .time {
     display: inline-block;
-    width: 14%;
+    width: 15%;
     font-size: 1.3em;
-  }
+}
   .arrow {
     display: inline-block;
-    width: 5%;
+    width: 3%;
     color: #02768F;
 }
 
@@ -152,9 +152,9 @@ h1 {
 }
 
   .busNumber {
-    margin-top: 22px;
+    margin-top: 19px;
     display: inline-block;
-    width: 15%;
+    width: 17%;
     margin-left: 10px;
     padding-right: 6px;
 }
@@ -175,16 +175,17 @@ h1 {
   .boxsmall.out {
     background-color: #787776;
     letter-spacing: 1px;
-  }
+}
 
   .box.noservice {
     color: #787776;
-    }
+}
 
   .nos {
     background-color: #787776;
-  }
+}
 
   .nosar {
     color: #787776;
-  }
+    padding-left: 3px;
+}
